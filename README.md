@@ -6,7 +6,7 @@ This project involves a detailed SQL analysis of HR data to understand employee 
 - **Query**: Analyzes the number of employees in each department.
 - **Insight**: Research & Development has the most employees, highlighting potential areas for targeted retention strategies.
  
-### Income Analysis by Gender
+### Income Analysis by Gender 
 - **Query**: Compares average monthly income across genders.
 - **Finding**: Female employees earn more on average than their male counterparts, suggesting equitable or favorable pay scales for women.
 
