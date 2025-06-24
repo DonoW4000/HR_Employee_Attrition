@@ -9,7 +9,7 @@ This project involves a detailed SQL analysis of HR data to understand employee 
 ### Income Analysis by Gender 
 - **Query**: Compares average monthly income across genders.
 - **Finding**: Female employees earn more on average than their male counterparts, suggesting equitable or favorable pay scales for women.
-
+ 
 ### Attrition by Job Role
 - **Query**: Investigates attrition rates within specific job roles.
 - **Result**: Provides a detailed breakdown, allowing for targeted interventions in high-turnover roles.
