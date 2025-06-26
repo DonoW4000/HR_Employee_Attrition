@@ -3,7 +3,7 @@
 This project involves a detailed SQL analysis of HR data to understand employee attrition rates and factors affecting employee retention. The analysis provides insights into departmental distributions, income disparities, job roles, and the relationship between work-life balance and employee turnover.
 
 ### Employment Distribution by Department
-- **Query**: Analyzes the number of employees in each department.
+- **Query**: Analyzes the number of employees in each department. 
 - **Insight**: Research & Development has the most employees, highlighting potential areas for targeted retention strategies.
  
 ### Income Analysis by Gender 
